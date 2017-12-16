@@ -1,6 +1,14 @@
 Reactサンプル
 ====
 
+# 実行する
+npm install
+npm run build
+npm start
+
+
+# サンプル作成時のメモ
+
 ## ディレクトリの作成
 
 * mkdir bbs
